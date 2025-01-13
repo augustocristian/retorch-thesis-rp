@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you cite this replication package, please cite it as below."
+authors:
+  - family-names: "Augusto"
+    given-names: "Cristian"
+    orcid: "https://orcid.org/0000-0001-6140-1375"
+title: "Replication package for 'Resource Characterization and Optimization for End-to-End Testing'"
+version: 1.0
+date-released: 2025-01-16
+url: "https://github.com/augustocristian/retorch-thesis-rp"
