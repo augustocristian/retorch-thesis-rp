@@ -1,10 +1,24 @@
 cff-version: 1.2.0
-message: "If you cite this replication package, please cite it as below."
+message: "If you use this replication package in your research, please cite it as below."
 authors:
   - family-names: "Augusto"
     given-names: "Cristian"
     orcid: "https://orcid.org/0000-0001-6140-1375"
-title: "Replication package for 'Resource Characterization and Optimization for End-to-End Testing'"
-version: 1.0
-date-released: 2025-01-16
+    affiliation: "Department of Computer Science, University of Oviedo"
+    email: "augustocristian@uniovi.es" # Optional but helpful if publicly available
+title: "Replication Package for 'Resource Characterization and Optimization for End-to-End Testing'"
+version: "1.0"
+date-released: "2025-01-16"
 url: "https://github.com/augustocristian/retorch-thesis-rp"
+repository-code: "https://github.com/augustocristian/retorch-thesis-rp"
+license: "MIT"
+abstract: |
+  This repository contains the replication package of the thesis Resource Characterization and Optimization for End-to-End
+  Testing. The replication package comprises the test scripts, Jenkinsfiles and configuration files used during the evaluation
+  revision of the Chapter IV
+keywords:
+  - replication package
+  - End-to-end Testing
+  - Resource Optimization
+  - Software Engineering
+  - Software Testing
