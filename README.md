@@ -8,7 +8,8 @@ This repository contains the replication package of the thesis Resource Characte
 Testing
 
 The replication package comprises the test scripts, Jenkinsfiles and configuration files used during the evaluation
-revision of the Chapter IV. The replication package is organized as follows:
+revision of the Chapter IV, but also the necessary links to the other replication packages used during the thesis, structured
+in the different chapters (IV,V and VI)
 
 ## CHAPTER IV: RETORCH – End-to-End optimization through the smart characterization of the resources Evaluation.
 
@@ -39,6 +40,16 @@ http://[URL]:[PORT]/api/v1/query_range?query=rate(container_cpu_usage_seconds_to
 ```url
 http://[URL]:[PORT]/api/v1/query_range?query=container_memory_usage_bytes{id="/"}/1024/1024/1024&start=[STARTUNIXTIME]&end=[ENDUNIXTIME]&step=1
 ```
+
+## CHAPTER V: RETORCH* - Optimizing the End-to-End Execution in the Cloud
+
+The data and the code necessary to replicate the evaluation was made accesible in GIIS repository on 10th August 2023.
+It can be accessed in the following repository: [Replication package for 'RETORCH*: A Cost and Resource aware Model for E2E Testing in the Cloud'](https://github.com/giis-uniovi/retorchx-rp) 
+
+## CHAPTER VI: Easing E2E testing process using Large Language Models (LLMs).
+
+The data and the code necessary to replicate the evaluation was made accesible in GIIS repository on 20th September 2024.
+It can be accessed in the following repository: [Replication package for 'Exploratory study of the usefulness of LLMs in System testing''](https://github.com/giis-uniovi/retorch-llm-rp), the data is available in the [Zenodo](https://zenodo.org/records/13761150) repository.
 
 ## Citing this work
 
